@@ -1,0 +1,54 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+  <h1>My Info</h1>
+  <p>My Name is:<strong>karim ahmed</strong></p>
+  <P>Iam <strong>Available</strong>for Hire</P>
+  <p>my hour old price is line <span style="text-decoration: line-through;">$10 </span>And the new price is $30</p>
+  <p>vist my website from this link <a href="https://elzero.org/html-assignments-lesson-from-11-to-14/"
+      target="blank">Elzero acadmy</a></p>
+  <hr style=" height: 2px; color: black; background-color: black;">
+
+  <h1>here is some of my clients</h1>
+  <div
+    style="height: 80px; width: 80px;background-color: red; text-align: center;font-size: 20px; font-weight: bold;position:absolute;">
+    Dell</div>
+  <div
+    style="height: 80px; width: 80px;background-color: green; text-align: center;font-size: 20px; font-weight: bold;position:absolute;left:100px">
+    acer</div>
+  <div
+    style="height: 80px; width: 80px;background-color:blue; text-align: center;font-size: 20px; font-weight: bold;position: relative; left: 200px    ;">
+    google</div>
+
+  <hr style=" height: 2px; color: black; background-color: black;">
+
+  <h1>My Skills</h1>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>javaScript
+      <ul>
+        <li>vuejs</li>
+        <li>reactjs</li>
+        <li>angulrjs
+          <ol start="4">
+            <li>v4.0</li>
+            <li>v5.0</li>
+            <li>v6.0</li>
+            <li>v7.0</li>
+            <li>v8.0</li>
+          </ol>
+        <li>svelte</li>
+    </li>
+  </ul>
+  </li>
+  <li>python</li>
+  </ul>
